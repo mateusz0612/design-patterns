@@ -3,8 +3,9 @@
 Examples of Facade, Factory, Singleton Design Pattern in TypeScript/React Typescript.
 
 Examples included:
-- Facade - Custom hook useFetch.
-- Factory - EmployeeFactory.
+- Facade - HouseCleaning Facade, Custom hook useFetch.
+- Factory - EmployeeFactory, React Routes Factory.
+- Singleton - Implementation of singleton
 
 ## Installation and Setup Instructions
 
